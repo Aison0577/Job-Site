@@ -70,6 +70,3 @@ This Job Portal website aims to connect job seekers with potential employers. Th
 - **User and Job Management**: The admin can monitor and manage users, job listings, and employer accounts, with the authority to approve or suspend any account or job posting.
 - **Site Insights**: Admins can access analytics for site traffic, job posting trends, and user engagement statistics.
 
----
-
-Feel free to extend this README as you add features or update the project!
